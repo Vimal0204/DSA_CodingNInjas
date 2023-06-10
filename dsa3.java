@@ -7,7 +7,7 @@ public class Solution {
         }
         n=n/10;
         int smallAns = count(n);
-        return 1+smallAns;
+//         return 1+smallAns;
         
     }
 }
