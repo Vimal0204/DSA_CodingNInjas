@@ -10,6 +10,7 @@ public class Solution {
 		
 //         int i  = (int)Math.pow(x,n);
 //         return i ;
+// 		
 		
 	}
 }
