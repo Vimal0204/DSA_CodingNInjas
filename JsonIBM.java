@@ -14,7 +14,7 @@ import java.util.Scanner;
 //{"hello":"world","hi":"helloo","you":"me"}
 //{"hello":"world","hi":"hello","you":"me"}
 //{"hello":"world","hi":"helloo","you":"me","and":"fun"}
-
+// all input are correct and accepted
 public class Main {
     public static String getValue(String json,int index){
 //        int i=index;
