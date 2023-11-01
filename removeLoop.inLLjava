@@ -1,0 +1,10 @@
+        HashMap<Node,Boolean> map = new HashMap<>();
+        Node temp=head;
+        while(temp.next!=null){
+            if(map.containsKey(temp.next)){
+                temp.next=null;
+                return;
+            }
+            map.put(temp,true);
+            temp=temp.next;
+        }
